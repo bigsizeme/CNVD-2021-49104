@@ -5,4 +5,4 @@ CNVD-2021-49104——泛微E-Office文件上传漏洞
 
 
 
-![Alt text](https://https://github.com/bigsizeme/CNVD-2021-49104/blob/main/1.png)
+![Alt text](https://github.com/bigsizeme/CNVD-2021-49104/blob/main/1.png)
